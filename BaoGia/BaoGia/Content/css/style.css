@@ -1,0 +1,54 @@
+﻿body {
+}
+
+.limit-200{
+    overflow: auto;
+    max-height: 200px;
+}
+
+.limit-300{
+    overflow: auto;
+    max-height: 300px;
+}
+
+.limit-400{
+    overflow: auto;
+    max-height: 400px;
+}
+
+.limit-500{
+    overflow: auto;
+    max-height: 500px;
+}
+
+.maudo{
+    background-color: #cb003b;
+    color: #ffffff;
+}
+
+.mauxam{
+    background-color: #747373;
+    color: #ffffff;
+}
+.mauxanh{
+    background-color: #179d98;
+    color: #ffffff;
+}
+.maucam{
+    background-color: #f09d1f;
+    color: #ffffff;
+}
+.mauvang{
+    background-color: #dbac13;
+    color: #ffffff;
+}
+.maureu{
+    background-color: #234533;
+    color: #ffffff;
+}
+
+
+.report{
+    overflow: auto;
+}
+
